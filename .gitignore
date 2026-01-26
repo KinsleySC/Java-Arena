@@ -1,0 +1,6 @@
+sauvegarde.csv
+*#
+*~
+*.log
+.vscode/
+.class
